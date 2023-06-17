@@ -6,7 +6,7 @@ This repository contains the code and instructions for setting up a learning pro
 
 Before getting started, make sure you have the following installed:
 
-- Docker
+- Docker Desktop For Windows or Docker
 - Node.js
 - Java Development Kit (JDK)
 - Maven
