@@ -18,7 +18,7 @@ Follow the steps below to set up the project:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/calebjeffery/DockerReactAndSpringbootNginxApp.git
    ```
 
 2. Change into the project directory:
