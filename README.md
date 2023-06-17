@@ -56,9 +56,9 @@ Follow the steps below to set up the project:
 ## Resources
 
 - Codeching YouTube Videos:
-  - [Video 1](https://youtu.be/rsr6X5M6-6M)
-  - [Video 2](https://youtu.be/IGg1Rx29_O0)
-  - [Video 3](https://youtu.be/N1MT1Ny6JC8)
+  - [How to develop a Spring Boot Java application in VS Code step by step tutorial](https://youtu.be/rsr6X5M6-6M)
+  - [How to use Docker to dockerize a Spring Boot application, React app, NginX proxy | Docker Compose](https://youtu.be/IGg1Rx29_O0)
+  - [How to dockerize a Spring Boot application | Creating REST API with Jersey and JAX-Rs | Step by step](https://youtu.be/N1MT1Ny6JC8)
 
 ## License
 
