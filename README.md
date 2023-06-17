@@ -45,8 +45,8 @@ Follow the steps below to set up the project:
 5. Build the Docker images and start the containers:
 
    ```bash
-   cd ../nginx
-   docker-compose up --build
+   cd ..
+   docker-compose -f .\docker-compose.yaml up --build
    ```
 
    This command will build and run the Docker containers for the frontend, backend, and Nginx.
