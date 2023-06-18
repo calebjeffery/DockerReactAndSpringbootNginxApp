@@ -51,14 +51,14 @@ Follow the steps below to set up the project:
 
    This command will build and run the Docker containers for the frontend, backend, and Nginx.
 
-6. Once the containers are up and running, you can access the application in your web browser at [http://localhost](http://localhost:3000/).
+6. Once the containers are up and running, you can access the application in your web browser at [http://localhost:3000](http://localhost:3000/).
 
 ## Resources
 
 - Codeching YouTube Videos:
   - [How to develop a Spring Boot Java application in VS Code step by step tutorial](https://youtu.be/rsr6X5M6-6M)
-  - [How to use Docker to dockerize a Spring Boot application, React app, NginX proxy | Docker Compose](https://youtu.be/IGg1Rx29_O0)
   - [How to dockerize a Spring Boot application | Creating REST API with Jersey and JAX-Rs | Step by step](https://youtu.be/N1MT1Ny6JC8)
+  - [How to use Docker to dockerize a Spring Boot application, React app, NginX proxy | Docker Compose](https://youtu.be/IGg1Rx29_O0)
 
 ## License
 
