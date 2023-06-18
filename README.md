@@ -51,7 +51,7 @@ Follow the steps below to set up the project:
 
    This command will build and run the Docker containers for the frontend, backend, and Nginx.
 
-6. Once the containers are up and running, you can access the application in your web browser at `http://localhost`.
+6. Once the containers are up and running, you can access the application in your web browser at [http://localhost](http://localhost:3000/).
 
 ## Resources
 
